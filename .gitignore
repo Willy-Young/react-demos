@@ -1,6 +1,6 @@
 # intellij
-/.idea
+.idea
 *.iml
 
 # wips
-/bootstrapper/
+bootstrapper/
