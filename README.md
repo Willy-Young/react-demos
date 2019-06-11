@@ -4,7 +4,7 @@ A various collection of React Features and Demos
 
 ### `bootstrapper`
 
-A personal template of mine to crete projects
+A personal template of mine to create projects
 
 ### `memo`
 
