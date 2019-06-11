@@ -10,4 +10,4 @@ package-lock.json
 
 # production
 /bin
-keys
+/public/fa.js
