@@ -41,7 +41,7 @@
     "eslint-plugin-react-hooks": "1.6.0",
     "jest": "24.8.0",
     "react-test-renderer": "16.8.6",
-    "webpack": "4.33.0",
+    "webpack": "5.94.0",
     "webpack-bundle-analyzer": "3.3.2",
     "webpack-cli": "3.3.3",
     "webpack-dev-server": "3.7.1"
